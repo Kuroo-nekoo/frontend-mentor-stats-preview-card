@@ -2,6 +2,9 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+Live Demo
+https://fat-wolf.github.io/frontend-mentor-stats-preview-card/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
